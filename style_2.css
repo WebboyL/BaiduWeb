@@ -1,0 +1,12 @@
+.zhuti {
+	margin: 20px 400px;
+	width: 800px;
+	height: 900px;
+	border: solid 1px rgb(101,165,250);
+}
+.zuo{
+	width: 180px;
+	height: 900px;
+	background-color: rgb(101,165,250);
+	float: left;
+}
